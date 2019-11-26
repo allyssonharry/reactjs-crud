@@ -10,14 +10,7 @@
 /coverage
 
 # production
-# // Remove in production
 /build
-
-# Discomment in production
-#src/*
-#public/*
-#build/static/css/*.map
-#build/static/js/*.map
 
 # misc
 .DS_Store
