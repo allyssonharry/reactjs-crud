@@ -1,4 +1,4 @@
-# Simple React App + Authentication + User Role & CRUD Operations
+# Simple React App + CRUD Authentication + USER ROLE
 
 ## How to...
 
